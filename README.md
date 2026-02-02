@@ -1,1 +1,1 @@
-further updates on this project of git
+further updates on this project of git.
