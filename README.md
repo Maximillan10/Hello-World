@@ -1,1 +1,1 @@
-working on the basics of Git
+further updates on this project of git
