@@ -1,1 +1,1 @@
-further updates on this project of git.
+This repository was edited for CSC4631 Week 1 Lab.
